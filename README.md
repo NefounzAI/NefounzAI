@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm NeofounzAI</h1>
 
 <p align="center">
-  <a href="https://github.com/NeofounzAI"><img src="https://github-readme-stats.vercel.app/api?username=NeofounzAI&count_private=false" alt="NeofounzAI's github stats"></a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</a>
 </p>
 
 <p align="center">
