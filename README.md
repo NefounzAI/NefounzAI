@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">Hi, I'm NeofounzAI</h1>
-<p align="center">
+
 #![NeofounzAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeofounzAI&show_icons=true&theme=radical)</a>
-</p>
 
 <p align="center">
   <strong><a href="http://mdrifqi.my.id/">Official Website</a></strong> |
