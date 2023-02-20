@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm NeofounzAI</h1>
 
 <p align="center">
-  <a href="https://github.com/NeofounzAI"><img src="https://github-readme-stats.vercel.app/api?username=NeofounzAI&count_private=false" alt="NeofounzAI's github stats"></a>
+  <a href="https://github.com/NeofounzAI"><img src="![NeofounzAI GitHub stats](https://github-readme-stats.vercel.app/api?username=NeofounzAI&show_icons=true&theme=radical)" alt="NeofounzAI's github stats"></a>
 </p>
 
 <p align="center">
