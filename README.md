@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""http://mdrifqi.my.id/"><img src="https://wallpapercave.com/uwp/uwp1218527.gif" alt="MDrifqi"></a>
+  <a href=""http://mdrifqi.my.id/"><img src="https://wallpapercave.com/uwp/uwp1218527.gif" alt="NeofounzAI"></a>
 </p>
 
 <h1 align="center">Hi, I'm NeofounzAI</h1>
