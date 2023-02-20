@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://webs-edit-rifqiiiii.vercel.app/"><img src="https://wallpapercave.com/uwp/uwp1218527.gif" alt="MDrifqi"></a>
+</p>
 
-<!--
-**NeofounzAI/NeofounzAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm MdRifqi</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/NeofounzAI"><img src="https://github-readme-stats.vercel.app/api?username=NeofounzAI&count_private=false" alt="NeofounzAI's github stats"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <strong><a href="http://mdrifqi.my.id/">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/RifqiKunn">Twitter</a></strong> |
+  <strong><a href="https://www.instagram.com/mdrifqi31_/">Instagram</a></strong> |
+</p>
+
+<p align="center">Thanks for looking at my github❤</p>
+
+# About Me:
+
+- 🏫 I am a student...
+- 🎮 I love playing games
+- 🟢I'm new to learning java script
+- 💻I started learning to code in 2020
+- 🖼️I live in Indonesia
 -->
