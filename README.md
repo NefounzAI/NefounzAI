@@ -2,9 +2,9 @@
   <a href=""http://mdrifqi.my.id/"><img src="https://wallpapercave.com/uwp/uwp1218527.gif" alt="NeofounzAI"></a>
 </p>
 
-<h1 align="center">Hi, I'm NeofounzAI</h1>
+<h1 align="center">Hi, I'm NefounzAI</h1>
 
-![NeofounzAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeofounzAI&show_icons=true)
+![NefounzAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=NefounzAI&show_icons=true)
 
 <p align="center">
   <strong><a href="http://mdrifqi.my.id/">Official Website</a></strong> |
