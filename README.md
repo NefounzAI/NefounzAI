@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://wallpapercave.com/uwp/uwp1218527.gif](https://media0.giphy.com/media/28AEi3TIvtSP6/giphy.gif?cid=6c09b952auzpsylb480c7cses64x285g6ary682mlibv9fbh&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="NeofounzAI">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw4b2l6dXlrMWJ0dG1paXVuZXgzdXZyaWhwMWQ0d3lqbnd1c2lrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28AEi3TIvtSP6/giphy.gif" alt="NeofounzAI">
 </p>
 
 <h1 align="center">Hi, I'm NefounzAI</h1>
