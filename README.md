@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw4b2l6dXlrMWJ0dG1paXVuZXgzdXZyaWhwMWQ0d3lqbnd1c2lrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28AEi3TIvtSP6/giphy.gif" alt="NeofounzAI"> </p> <h1 align="center">Hi, I'm FounZz</h1> <p align="center"> 
- ![NefounzAI's Stats](https://github-readme-stats.vercel.app/api?username=NefounzAI&theme=dracula&show_icons=true&hide_border=false&count_private=true) </a> </p> <p align="center"> <strong><a href="http://mdrifqi.my.id/">Website</a></strong> | <strong><a href="https://twitter.com/RifqiKunn">Twitter</a></strong> | <strong><a href="https://www.instagram.com/mdrifqi31_/">Instagram</a></strong> </p> <p align="center"> Thank you for visiting my GitHub! 😊 </p>
+![NefounzAI's Stats](https://github-readme-stats.vercel.app/api?username=NefounzAI&theme=monokai&show_icons=true&hide_border=true&count_private=true)) </a> </p> <p align="center"> <strong><a href="http://mdrifqi.my.id/">Website</a></strong> | <strong><a href="https://twitter.com/RifqiKunn">Twitter</a></strong> | <strong><a href="https://www.instagram.com/mdrifqi31_/">Instagram</a></strong> </p> <p align="center"> Thank you for visiting my GitHub! 😊 </p>
 # About Me:
 
 - 🏫 I am a student...
