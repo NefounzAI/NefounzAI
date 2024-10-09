@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi, I'm FounZz</h1>
 
-![NefounzAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=NefounzAI&show_icons=true)
+
+![NefounzAI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NefounzAI&theme=dracula&hide_border=false)
 
 <p align="center">
   <strong><a href="http://mdrifqi.my.id/">Official Website</a></strong> |
