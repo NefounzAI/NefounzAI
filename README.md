@@ -1,3 +1,5 @@
+![Profile views](https://img.shields.io/badge/Profile%20views-2015-brightgreen)
+
 <p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw4b2l6dXlrMWJ0dG1paXVuZXgzdXZyaWhwMWQ0d3lqbnd1c2lrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28AEi3TIvtSP6/giphy.gif" alt="NeofounzAI"> </p> <h1 align="center">Hi, I'm FounZz</h1> <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=NefounzAI&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="NefounzAI's Stats">
 
